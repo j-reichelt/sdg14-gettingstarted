@@ -1,2 +1,0 @@
-# sdg14-gettingstarted
-
